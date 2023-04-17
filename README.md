@@ -1,1 +1,1 @@
-{# resultscool_resume}(https://olamurm.github.io/resultscool_resume/)
+# [Первое резюме с ResultScool!](https://olamurm.github.io/resultscool_resume/)
